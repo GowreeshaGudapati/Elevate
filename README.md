@@ -3,6 +3,7 @@
 This is a simple Java console-based calculator that allows users to perform basic arithmetic operations. The program takes user input for two numbers and an operator, performs the calculation, and displays the result.
 
 Features
+
 ➕ Addition
 
 ➖ Subtraction
