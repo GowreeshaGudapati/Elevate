@@ -16,7 +16,7 @@ Handles invalid inputs gracefully using exception handling
 
 Allows continuous calculations until the user decides to exit
 
-Technologies Used:
+Technologies Used
 * Java (Core)
 
 * Scanner for user input
